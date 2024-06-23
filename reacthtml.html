@@ -7,7 +7,18 @@
 </head>
 <body>
     <div id="root"></div>
+    <div id="roottwo"></div>
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+    <script>
+        const heading = React.createElement("h1",{},"Namaste from react");
+        const root = ReactDOM.createRoot(document.getElementById("root"));
+        root.render(heading);
+        const headingone = React.createElement("h1",{id:"title"},"Heading 1");
+        const headingtwo = React.createElement("h1",{id:"title2"},"Heading 2");
+        const container = React.createElement("div",{id:"container"},[headingone,headingtwo]);
+        const reactroot = ReactDOM.createRoot(document.getElementById("root"));
+        reactroot.render(container);
+    </script>
 </body>
-<script crossorigin src=""></script>
-<script crossorigin src=""></script>
 </html>
