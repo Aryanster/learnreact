@@ -1,0 +1,386 @@
+[
+  {
+    "NAME": "John Doe",
+    "EMAIL": "john.doe@example.com",
+    "PHONENUMBER": "+1234567890",
+    "FAVORITEFOOD": "Pizza"
+  },
+  {
+    "NAME": "Jane Smith",
+    "EMAIL": "jane.smith@example.com",
+    "PHONENUMBER": "+1987654321",
+    "FAVORITEFOOD": "Sushi"
+  },
+  {
+    "NAME": "Michael Johnson",
+    "EMAIL": "michael.johnson@example.com",
+    "PHONENUMBER": "+1654321897",
+    "FAVORITEFOOD": "Burger"
+  },
+  {
+    "NAME": "Emily Davis",
+    "EMAIL": "emily.davis@example.com",
+    "PHONENUMBER": "+1329876543",
+    "FAVORITEFOOD": "Pasta"
+  },
+  {
+    "NAME": "Daniel Wilson",
+    "EMAIL": "daniel.wilson@example.com",
+    "PHONENUMBER": "+1789456123",
+    "FAVORITEFOOD": "Steak"
+  },
+  {
+    "NAME": "Sarah Garcia",
+    "EMAIL": "sarah.garcia@example.com",
+    "PHONENUMBER": "+1888777666",
+    "FAVORITEFOOD": "Tacos"
+  },
+  {
+    "NAME": "Matthew Martinez",
+    "EMAIL": "matthew.martinez@example.com",
+    "PHONENUMBER": "+1999444333",
+    "FAVORITEFOOD": "Ice Cream"
+  },
+  {
+    "NAME": "Jessica Robinson",
+    "EMAIL": "jessica.robinson@example.com",
+    "PHONENUMBER": "+1777666555",
+    "FAVORITEFOOD": "Cake"
+  },
+  {
+    "NAME": "Christopher Clark",
+    "EMAIL": "christopher.clark@example.com",
+    "PHONENUMBER": "+1888222111",
+    "FAVORITEFOOD": "Ramen"
+  },
+  {
+    "NAME": "Amanda Lewis",
+    "EMAIL": "amanda.lewis@example.com",
+    "PHONENUMBER": "+1666999888",
+    "FAVORITEFOOD": "Salad"
+  },
+  {
+    "NAME": "Kevin Walker",
+    "EMAIL": "kevin.walker@example.com",
+    "PHONENUMBER": "+1555666777",
+    "FAVORITEFOOD": "Sushi"
+  },
+  {
+    "NAME": "Megan Hall",
+    "EMAIL": "megan.hall@example.com",
+    "PHONENUMBER": "+1444777888",
+    "FAVORITEFOOD": "Pizza"
+  },
+  {
+    "NAME": "Andrew Young",
+    "EMAIL": "andrew.young@example.com",
+    "PHONENUMBER": "+1333666999",
+    "FAVORITEFOOD": "Burger"
+  },
+  {
+    "NAME": "Nicole Allen",
+    "EMAIL": "nicole.allen@example.com",
+    "PHONENUMBER": "+1222555666",
+    "FAVORITEFOOD": "Pasta"
+  },
+  {
+    "NAME": "James Hernandez",
+    "EMAIL": "james.hernandez@example.com",
+    "PHONENUMBER": "+1888333555",
+    "FAVORITEFOOD": "Steak"
+  },
+  {
+    "NAME": "Stephanie King",
+    "EMAIL": "stephanie.king@example.com",
+    "PHONENUMBER": "+1777444222",
+    "FAVORITEFOOD": "Tacos"
+  },
+  {
+    "NAME": "Ryan Scott",
+    "EMAIL": "ryan.scott@example.com",
+    "PHONENUMBER": "+1666111333",
+    "FAVORITEFOOD": "Ice Cream"
+  },
+  {
+    "NAME": "Lauren Green",
+    "EMAIL": "lauren.green@example.com",
+    "PHONENUMBER": "+1555888999",
+    "FAVORITEFOOD": "Cake"
+  },
+  {
+    "NAME": "David Baker",
+    "EMAIL": "david.baker@example.com",
+    "PHONENUMBER": "+1444666888",
+    "FAVORITEFOOD": "Ramen"
+  },
+  {
+    "NAME": "Rachel Perez",
+    "EMAIL": "rachel.perez@example.com",
+    "PHONENUMBER": "+1333555777",
+    "FAVORITEFOOD": "Salad"
+  },
+  {
+    "NAME": "Justin Turner",
+    "EMAIL": "justin.turner@example.com",
+    "PHONENUMBER": "+1222444666",
+    "FAVORITEFOOD": "Sushi"
+  },
+  {
+    "NAME": "Brandon Ramirez",
+    "EMAIL": "brandon.ramirez@example.com",
+    "PHONENUMBER": "+1444555666",
+    "FAVORITEFOOD": "Pizza"
+  },
+  {
+    "NAME": "Natalie Sanchez",
+    "EMAIL": "natalie.sanchez@example.com",
+    "PHONENUMBER": "+1999888777",
+    "FAVORITEFOOD": "Burger"
+  },
+  {
+    "NAME": "Joshua Nelson",
+    "EMAIL": "joshua.nelson@example.com",
+    "PHONENUMBER": "+1888222333",
+    "FAVORITEFOOD": "Pasta"
+  },
+  {
+    "NAME": "Hannah Rivera",
+    "EMAIL": "hannah.rivera@example.com",
+    "PHONENUMBER": "+1777111999",
+    "FAVORITEFOOD": "Steak"
+  },
+  {
+    "NAME": "Ethan Campbell",
+    "EMAIL": "ethan.campbell@example.com",
+    "PHONENUMBER": "+1555333222",
+    "FAVORITEFOOD": "Tacos"
+  },
+  {
+    "NAME": "Samantha Mitchell",
+    "EMAIL": "samantha.mitchell@example.com",
+    "PHONENUMBER": "+1666222111",
+    "FAVORITEFOOD": "Ice Cream"
+  },
+  {
+    "NAME": "Tyler Carter",
+    "EMAIL": "tyler.carter@example.com",
+    "PHONENUMBER": "+1333444555",
+    "FAVORITEFOOD": "Cake"
+  },
+  {
+    "NAME": "Olivia Phillips",
+    "EMAIL": "olivia.phillips@example.com",
+    "PHONENUMBER": "+1444222888",
+    "FAVORITEFOOD": "Ramen"
+  },
+  {
+    "NAME": "Logan Evans",
+    "EMAIL": "logan.evans@example.com",
+    "PHONENUMBER": "+1888999333",
+    "FAVORITEFOOD": "Salad"
+  },
+  {
+    "NAME": "Sophia Thomas",
+    "EMAIL": "sophia.thomas@example.com",
+    "PHONENUMBER": "+1555444111",
+    "FAVORITEFOOD": "Sushi"
+  },
+  {
+    "NAME": "Lucas Moore",
+    "EMAIL": "lucas.moore@example.com",
+    "PHONENUMBER": "+1999666555",
+    "FAVORITEFOOD": "Pizza"
+  },
+  {
+    "NAME": "Zoe Jackson",
+    "EMAIL": "zoe.jackson@example.com",
+    "PHONENUMBER": "+1444888777",
+    "FAVORITEFOOD": "Burger"
+  },
+  {
+    "NAME": "Jack White",
+    "EMAIL": "jack.white@example.com",
+    "PHONENUMBER": "+1222333444",
+    "FAVORITEFOOD": "Pasta"
+  },
+  {
+    "NAME": "Ella Harris",
+    "EMAIL": "ella.harris@example.com",
+    "PHONENUMBER": "+1777555666",
+    "FAVORITEFOOD": "Steak"
+  },
+  {
+    "NAME": "Mason Lee",
+    "EMAIL": "mason.lee@example.com",
+    "PHONENUMBER": "+1666555444",
+    "FAVORITEFOOD": "Tacos"
+  },
+  {
+    "NAME": "Ava Adams",
+    "EMAIL": "ava.adams@example.com",
+    "PHONENUMBER": "+1333222111",
+    "FAVORITEFOOD": "Ice Cream"
+  },
+  {
+    "NAME": "Alexander Collins",
+    "EMAIL": "alexander.collins@example.com",
+    "PHONENUMBER": "+1444555333",
+    "FAVORITEFOOD": "Cake"
+  },
+  {
+    "NAME": "Madison Stewart",
+    "EMAIL": "madison.stewart@example.com",
+    "PHONENUMBER": "+1888111777",
+    "FAVORITEFOOD": "Ramen"
+  },
+  {
+    "NAME": "Henry Diaz",
+    "EMAIL": "henry.diaz@example.com",
+    "PHONENUMBER": "+1555666333",
+    "FAVORITEFOOD": "Salad"
+  },
+  {
+    "NAME": "Abigail Murphy",
+    "EMAIL": "abigail.murphy@example.com",
+    "PHONENUMBER": "+1666777444",
+    "FAVORITEFOOD": "Sushi"
+  },
+  {
+    "NAME": "Benjamin Morales",
+    "EMAIL": "benjamin.morales@example.com",
+    "PHONENUMBER": "+1777666222",
+    "FAVORITEFOOD": "Pizza"
+  },
+  {
+    "NAME": "Isabella Rogers",
+    "EMAIL": "isabella.rogers@example.com",
+    "PHONENUMBER": "+1999111888",
+    "FAVORITEFOOD": "Burger"
+  },
+  {
+    "NAME": "Sebastian Reed",
+    "EMAIL": "sebastian.reed@example.com",
+    "PHONENUMBER": "+1444222333",
+    "FAVORITEFOOD": "Pasta"
+  },
+  {
+    "NAME": "Charlotte Cook",
+    "EMAIL": "charlotte.cook@example.com",
+    "PHONENUMBER": "+1888444555",
+    "FAVORITEFOOD": "Steak"
+  },
+  {
+    "NAME": "Jameson Bell",
+    "EMAIL": "jameson.bell@example.com",
+    "PHONENUMBER": "+1555333111",
+    "FAVORITEFOOD": "Tacos"
+  },
+  {
+    "NAME": "Mia Parker",
+    "EMAIL": "mia.parker@example.com",
+    "PHONENUMBER": "+1666444888",
+    "FAVORITEFOOD": "Ice Cream"
+  },
+  {
+    "NAME": "Jacob Ramirez",
+    "EMAIL": "jacob.ramirez@example.com",
+    "PHONENUMBER": "+1333111444",
+    "FAVORITEFOOD": "Cake"
+  },
+  {
+    "NAME": "Layla Sanders",
+    "EMAIL": "layla.sanders@example.com",
+    "PHONENUMBER": "+1444666555",
+    "FAVORITEFOOD": "Ramen"
+  },
+  {
+    "NAME": "Oliver Ward",
+    "EMAIL": "oliver.ward@example.com",
+    "PHONENUMBER": "+1888999444",
+    "FAVORITEFOOD": "Salad"
+  },
+  {
+    "NAME": "Victoria Patterson",
+    "EMAIL": "victoria.patterson@example.com",
+    "PHONENUMBER": "+1555222111",
+    "FAVORITEFOOD": "Sushi"
+  },
+  {
+    "NAME": "Liam Brooks",
+    "EMAIL": "liam.brooks@example.com",
+    "PHONENUMBER": "+1999333777",
+    "FAVORITEFOOD": "Pizza"
+  },
+  {
+    "NAME": "Sofia Morgan",
+    "EMAIL": "sofia.morgan@example.com",
+    "PHONENUMBER": "+1444111999",
+    "FAVORITEFOOD": "Burger"
+  },
+  {
+    "NAME": "William Hughes",
+    "EMAIL": "william.hughes@example.com",
+    "PHONENUMBER": "+1777111444",
+    "FAVORITEFOOD": "Pasta"
+  },
+  {
+    "NAME": "Chloe Price",
+    "EMAIL": "chloe.price@example.com",
+    "PHONENUMBER": "+1666333555",
+    "FAVORITEFOOD": "Steak"
+  },
+  {
+    "NAME": "Evelyn Torres",
+    "EMAIL": "evelyn.torres@example.com",
+    "PHONENUMBER": "+1333222888",
+    "FAVORITEFOOD": "Tacos"
+  },
+  {
+    "NAME": "Luke Flores",
+    "EMAIL": "luke.flores@example.com",
+    "PHONENUMBER": "+1444111222",
+    "FAVORITEFOOD": "Ice Cream"
+  },
+  {
+    "NAME": "Scarlett Jenkins",
+    "EMAIL": "scarlett.jenkins@example.com",
+    "PHONENUMBER": "+1888222444",
+    "FAVORITEFOOD": "Cake"
+  },
+  {
+    "NAME": "Elijah Perry",
+    "EMAIL": "elijah.perry@example.com",
+    "PHONENUMBER": "+1555444777",
+    "FAVORITEFOOD": "Ramen"
+  },
+  {
+    "NAME": "Ella Cooper",
+    "EMAIL": "ella.cooper@example.com",
+    "PHONENUMBER": "+1666222555",
+    "FAVORITEFOOD": "Salad"
+  },
+  {
+    "NAME": "Mason Foster",
+    "EMAIL": "mason.foster@example.com",
+    "PHONENUMBER": "+1333111888",
+    "FAVORITEFOOD": "Sushi"
+  },
+  {
+    "NAME": "Isabella Torres",
+    "EMAIL": "isabella.torres@example.com",
+    "PHONENUMBER": "+1444555111",
+    "FAVORITEFOOD": "Pizza"
+  },
+  {
+    "NAME": "Aiden Hayes",
+    "EMAIL": "aiden.hayes@example.com",
+    "PHONENUMBER": "+1999444111",
+    "FAVORITEFOOD": "Burger"
+  },
+  {
+    "NAME": "Ava Price",
+    "EMAIL": "ava.price@example.com",
+    "PHONENUMBER": "+1888333111",
+    "FAVORITEFOOD": "Pasta"
+  }
+]
